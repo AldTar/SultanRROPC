@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>RR-N-v5.8.3-20170522-oneplus3-Sultan.zip</Filename>
+            <Filename>SultanRR_OPC_OP3_20170524.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
