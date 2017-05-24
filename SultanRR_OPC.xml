@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>SultanRR_OPC_OP3_20170524.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170522-oneplus3-Sultan.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -15,26 +15,14 @@
                 id="OP3TFirmware"
                 title="OP3T Firmware"
                 description="OP3T Firmware Folder">https://www.androidfilehost.com/?w=files&amp;flid=171162</OP3TFirmwareUrl>
-				<OpenGappsUrl
-                id="open_gapps"
-                title="BeanGApps"
-                description="Download latest BeansGApps">https://www.androidfilehost.com/?w=files&amp;flid=171925</OpenGappsUrl>
             <BeansGappsUrl
                 id="beans_gapps"
                 title="BeansGApps"
                 description="Download latest BeansGApps">https://www.androidfilehost.com/?w=files&amp;flid=171925</BeansGappsUrl>
 	    <ChangelogUrl
                 id="changelog"
-                title="Official Changelog"
-                description="View the official Changelog">https://github.com/ResurrectionRemix/OTA/blob/master/apascual89/CHANGELOG.mkdn</ChangelogUrl>
-				 <Changelog2Url
-                id="varunchangelog"
-                title="Varun Changelog"
-                description="View Varun's Changelog">https://google.com</Changelog2Url>
-				 <Changelog3Url
-                id="unoffchangelog"
-                title="Unofficial Changelog"
-                description="View Changelog">https://youtube.com</Changelog3Url>
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/OTA/blob/master/apascual89/CHANGELOG.mkdn</ChangelogUrl>
             <OldBuildsUrl
             	id="Old_builds"
             	title="Build Folder"
