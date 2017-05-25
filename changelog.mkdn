@@ -1,2 +1,2 @@
-RR-N-v5.8.3-20170525-oneplus3-SultanOPC:
+RR-N-v5.8.3-20170525-oneplus3-SultanOPC
   - Implemented ResurrectionOTA
