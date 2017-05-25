@@ -30,7 +30,7 @@
 	    <ChangelogUrl
                 id="changelog"
                 title="Unofficial Changelog"
-                description="View Changelog">https://google.com</ChangelogUrl>
+                description="View Changelog">https://github.com/AldTar/SultanRROPC/blob/master/changelog.mkdn</ChangelogUrl>
             <OldBuildsUrl
             	id="Old_builds"
             	title="Build Folder"
