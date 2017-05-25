@@ -11,6 +11,10 @@
                 id="Firmware"
                 title="OP3/3T Firmware"
                 description="OP3/3T Firmware Folder">https://www.androidfilehost.com/?w=files&amp;flid=139132</FirmwareUrl>
+	    <ModUrl
+                id="Mod"
+                title="Mod"
+                description="Mod Folder">https://www.androidfilehost.com/?w=files&amp;flid=183510</ModUrl>
 	    <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
