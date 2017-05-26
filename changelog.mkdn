@@ -1,8 +1,8 @@
 RR-N-v5.8.3-20170526-oneplus3-SultanOPC
 
-  - Changed kernel to original Sultan kernel (fixing video recording) 
+  - Changed kernel to original Sultan kernel (fixing video recording) 
   
-  - Reverted to Hal1
+  - Reverted to Hal1
   
 
 RR-N-v5.8.3-20170525b-oneplus3-SultanOPC(RR-N-v5.8.3-20170525-oneplus3-SultanOPC)
