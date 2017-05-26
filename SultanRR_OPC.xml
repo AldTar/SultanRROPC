@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>RR-N-v5.8.3-20170525b-oneplus3-SultanOPC.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170526-oneplus3-SultanOPC.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=961840155545567616</RomUrl>
+                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=745425885120734812</RomUrl>
             <FirmwareUrl
                 id="Firmware"
                 title="OP3/3T Firmware"
