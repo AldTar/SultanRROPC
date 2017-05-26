@@ -1,7 +1,19 @@
+RR-N-v5.8.3-20170526-oneplus3-SultanOPC
+
+  - Upgraded kernel to 20170524(matssa) 
+  
+  - reverted to Hal1
+  
+
 RR-N-v5.8.3-20170525b-oneplus3-SultanOPC(RR-N-v5.8.3-20170525-oneplus3-SultanOPC)
+
   - ResurrectionOTA
+  
     - Fixed Substratub problems applying a theme on it
+    
     - Hidden ResurrectionOTA
     
+    
 RR-N-v5.8.3-20170525-oneplus3-SultanOPC
+  
   - Implemented ResurrectionOTA
