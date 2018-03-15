@@ -1,7 +1,7 @@
 {
   "app": {
     "version": "2.6.2 (180311)",
-    "versionCode": "180311",
+    "versionCode": "0",
     "link": "https://github.com/kantjer/MagiskFiles/raw/master/MagiskManager-v5.6.2-180311.apk"
   },
   "magisk": {
